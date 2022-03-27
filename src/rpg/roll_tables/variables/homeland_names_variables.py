@@ -1,0 +1,6 @@
+TUPLE_A1 = ('Astora', 'Carim', 'Catarina')
+TUPLE_A2 = ('Mirrah', 'Carthus', 'Coruland')
+TUPLE_A3 = ('Vinheim', 'Farron', 'The East')
+TUPLE_A4 = ('Melfia', 'Drangleic', 'Forossa')
+TUPLE_A5 = ('Balder', 'Jugo', 'Thorolund')
+TUPLE_A6 = ('Zena', 'Great Swamp', 'Painted World')

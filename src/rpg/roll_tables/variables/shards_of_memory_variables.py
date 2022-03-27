@@ -1,0 +1,36 @@
+SHARDS_OF_ANGER = ('The chaos and fury of a battlefield. Your burning hatred for the enemy.',
+    'Your heart beats faster, your steps grow quick. Tonight, you’ll have your vengeance!',
+    'Cursed insects, crawling everywhere! You won’t suffer a single one of them to live!',
+    'Dumb idiots. It’s here, somewhere, you know it. If only they stopped complaining!',
+    'How can the Gods tolerate this? Must you act on their behalf?',
+    'Perhaps you could help. Perhaps you shouldn’t. Would they do the same for you?')
+SHARDS_OF_CALM = ('The damp chill of a dark cathedral. Sleepy chants and whispered prayers.',
+    'A beautiful view of a mountain lake, surrounded by forests. The Sun’s warmth.',
+    'Snow falling around you. Complete silence, save for the muffled toll of a distant bell.',
+    'The ocean, seemingly endless. Cawing birds and a cool, salty breeze.',
+    'Roiling fog, a swarm of misty soldiers enveloping the hills.',
+    'A graveyard. Dark, wet soil and mossy stones painted orange by a bleeding twilight.')
+SHARDS_OF_DEPAIR = ('Why? Why should what you love most belong to another? This is unbearable.',
+    'You remember that towering shadow. You remember the unspeakable things it did to you.',
+    'No one. No one is left now, only a barren ruin where a proud fortress once stood.',
+    'You must leave and never return. This mistake was yours alone, and no one else should pay',
+    'Surrounded! They are everywhere. The screams, the flames, the gurgling noises!',
+    'You are powerless as they feast upon your body. Death comes as a sweet release.')
+SHARDS_OF_FEAR = ('The master’s whip, drawing a maze of pain over your flesh. You must stay silent!',
+    'Countless horrors, crawling up from the cursed earth.',
+    'Needles and tools, cutting your flesh open. They say it’s for your own good.',
+    'Your hands shake as it gets near. The twisted body, the gaping maw. Those eyes!',
+    'The rough-edged runes, the esoteric tomes... Witchcraft!',
+    'They can never know. What you did... They could never forgive.')
+SHARDS_OF_NEED = ('How long has it been? The hunger never leaves you. You would eat anything. Anything.',
+    'Only a little longer. If only you could stay with them another day, no! Another hour!',
+    'Scattered grimoires and hasty notes. A frantic research.',
+    'You remember gazing outside, longing for freedom. If only you weren’t trapped here...',
+    'A bit more, and you’ll be okay. For a while. You earned this. It’s yours, and no one else’s!',
+    'The burning desire is driving you mad. You crave their lips, their hands, their flesh!')
+SHARDS_OF_REGRET = ('Where could they be? No, NO! You promised, you said they’d be safe with you!',
+    'Their soulless gaze haunts your sleep. How could you kill someone you loved so dearly?',
+    'You know it. You know it’s YOUR fault they died. Why, why did you lie?',
+    'They said it was forbidden. But you still went there. If only you had known...',
+    'You hid and stood silent while it happened. You never said nothing. You worthless coward.',
+    'If only you had waited. But no, you had to act. And it all fell to pieces.')

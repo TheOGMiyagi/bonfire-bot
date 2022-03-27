@@ -1,0 +1,73 @@
+TUPLE_A1 = ('Sisterhood',
+    'Blades',
+    'Wardens',
+    'Children',
+    'Brotherhood',
+    'Guardians')
+TUPLE_A2 = ('Daughters',
+    'Sentinels',
+    'Way',
+    'Faithfuls',
+    'Spears',
+    'Watchdogs')
+TUPLE_A3 = ('Servants',
+    'Hunters',
+    'Keepers',
+    'Pilgrims',
+    'Champions',
+    'Heirs')
+TUPLE_A4 = ('Lost Ones',
+    'Reapers',
+    'Slayers',
+    'Whisperers',
+    'Claws',
+    'Singers')
+TUPLE_A5 = ('Cloaks',
+    'Avengers',
+    'Masks',
+    'Seers',
+    'Widows',
+    'Hounds')
+TUPLE_A6 = ('Eyes',
+    'Butchers',
+    'Legionaries',
+    'Cenobites',
+    'Hands',
+    'Weavers')
+
+TUPLE_B1 = ('of Sunlight',
+    'of Chaos',
+    'of White',
+    'of the Pit',
+    'of Chains',
+    'of Sin')
+TUPLE_B2 = ('of Blue',
+    'of Shackles',
+    'of the Old Gods',
+    'of Flame',
+    'of the Forest',
+    'of Dark')
+TUPLE_B3 = ('of the Grave',
+    'of the Witch',
+    'of Blood',
+    'of the Dragon',
+    'of the Cairns',
+    'of the Depths')
+TUPLE_B4 = ('of the Painted World',
+    'of the Asylum',
+    'of the Archives',
+    'of the Abyss',
+    'of Giants',
+    'of Iron')
+TUPLE_B5 = ('of the Sunken Ruin',
+    'of the Great Tower',
+    'of Steel',
+    'of Want',
+    'of the Harvest',
+    'of the Wall')
+TUPLE_B6 = ('of the East',
+    'of the Forgotten',
+    'of the Dream',
+    'of the Lords',
+    'of Ash',
+    'of Silence')
