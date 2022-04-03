@@ -5,7 +5,7 @@ import d20
 import discord
 from discord.ext import commands
 
-from src.rpg.character import Character
+from src.rpg import character
 
 
 class Character(commands.Cog):
@@ -45,7 +45,7 @@ class Character(commands.Cog):
         Args:
             ctx (Obj): Context in which the command was invoked.
         """
-        _char = Character()
+        _char = character.Character()
         _char.roll_stats()
         embed = discord.Embed(title="Generating Dark Souls TTRPG Character Stats...",
             description="Here's a list of randomized stats for you to use in your character sheet!",

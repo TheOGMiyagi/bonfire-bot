@@ -1,5 +1,4 @@
-"""# RPG Cog
-This Discord Bot is made to handle commands that are useful in playing The Unofficial Dark Souls TTRPG via Discord.
+"""This Discord Bot is made to handle commands that are useful in playing The Unofficial Dark Souls TTRPG via Discord.
 The RPG: https://i.4pcdn.org/tg/1528730920492.pdf
 
 Required 3RD-Party PyPi Packages:

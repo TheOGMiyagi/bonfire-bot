@@ -1,7 +1,6 @@
 """# character.py
 This module contains logic regarding player characters.
 """
-#import [Module/Package]
 from dataclasses import dataclass
 from math import floor
 from random import randint
